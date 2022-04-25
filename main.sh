@@ -1,0 +1,2 @@
+javac MagicSquares.java
+java MagicSquares
